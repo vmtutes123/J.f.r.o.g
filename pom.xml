@@ -27,13 +27,13 @@
   <distributionManagement>
     <repository>
         <id>central</id>
-        <name>LAPTOP-HE2UV4RF-releases</name>
-        <url>http://localhost:8081/artifactory/mvn-repo</url>
+        <name>TekTeacher-releases</name>
+        <url>http://localhost:8081/artifactory/tek-maven</url>
     </repository>
     <snapshotRepository>
         <id>central</id>
-        <name>LAPTOP-HE2UV4RF-snapshots</name>
-        <url>http://localhost:8081/artifactory/mvn-repo</url>
+        <name>TekTeacher-snapshots</name>
+        <url>http://localhost:8081/artifactory/tek-maven</url>
     </snapshotRepository>
 </distributionManagement>
   
