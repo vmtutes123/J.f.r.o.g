@@ -28,12 +28,12 @@
     <repository>
         <id>central</id>
         <name>TekTeacher-releases</name>
-        <url>http://localhost:8081/artifactory/tek-maven</url>
+        <url>http://localhost:8081/artifactory/my-maven</url>
     </repository>
     <snapshotRepository>
         <id>central</id>
         <name>TekTeacher-snapshots</name>
-        <url>http://localhost:8081/artifactory/tek-maven</url>
+        <url>http://localhost:8081/artifactory/my-maven</url>
     </snapshotRepository>
 </distributionManagement>
   
