@@ -27,13 +27,13 @@
   <distributionManagement>
     <repository>
         <id>central</id>
-        <name>ip-172-31-34-179.ec2.internal-releases</name>
-        <url>http://54.80.131.14:8081/artifactory/tek-maven</url>
+        <name>ip-172-31-86-203.ec2.internal-releases</name>
+        <url>http://54.161.201.228:8081/artifactory/tek-maven</url>
     </repository>
     <snapshotRepository>
-        <id>central</id>
-        <name>ip-172-31-34-179.ec2.internal-snapshots</name>
-        <url>http://54.80.131.14:8081/artifactory/tek-maven</url>
+        <id>snapshots</id>
+        <name>ip-172-31-86-203.ec2.internal-snapshots</name>
+        <url>http://54.161.201.228:8081/artifactory/tek-maven</url>
     </snapshotRepository>
 </distributionManagement>
   
