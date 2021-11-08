@@ -6,7 +6,7 @@
 
   <groupId>Training</groupId>
   <artifactId>Demo</artifactId>
-  <version>111.0-SNAPSHOT</version>
+  <version>1.0-SNAPSHOT</version>
 
 
   <properties>
@@ -28,12 +28,12 @@
     <repository>
         <id>central</id>
         <name>TekTeacher-releases</name>
-        <url>http://localhost:8081/artifactory/sushma-repo</url>
+        <url>http://localhost:8081/artifactory/hello-repo</url>
     </repository>
     <snapshotRepository>
         <id>central</id>
         <name>TekTeacher-snapshots</name>
-        <url>http://localhost:8081/artifactory/sushma-repo</url>
+        <url>http://localhost:8081/artifactory/hello-repo</url>
     </snapshotRepository>
 </distributionManagement>
 
