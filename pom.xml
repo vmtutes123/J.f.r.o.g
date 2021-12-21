@@ -6,7 +6,7 @@
 
   <groupId>Training</groupId>
   <artifactId>Demo</artifactId>
-  <version>12.0-SNAPSHOT</version>
+  <version>123.0-SNAPSHOT</version>
 
 
   <properties>
@@ -28,14 +28,14 @@
     <repository>
         <id>central</id>
         <name>TekTeacher-releases</name>
-        <url>http://localhost:8081/artifactory/hello-repo</url>
+        <url>http://localhost:8081/artifactory/s21-batch</url>
     </repository>
     <snapshotRepository>
         <id>central</id>
         <name>TekTeacher-snapshots</name>
-        <url>http://localhost:8081/artifactory/hello-repo</url>
+        <url>http://localhost:8081/artifactory/s21-batch</url>
     </snapshotRepository>
-</distributionManagement>
+</distributionManagement> 
 
 
   
