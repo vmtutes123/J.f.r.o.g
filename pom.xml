@@ -28,14 +28,14 @@
     <repository>
         <id>central</id>
         <name>TekTeacher-releases</name>
-        <url>http://localhost:8081/artifactory/s21-batch</url>
+        <url>http://localhost:8081/artifactory/tek-repo</url>
     </repository>
     <snapshotRepository>
         <id>central</id>
         <name>TekTeacher-snapshots</name>
-        <url>http://localhost:8081/artifactory/s21-batch</url>
+        <url>http://localhost:8081/artifactory/tek-repo</url>
     </snapshotRepository>
-</distributionManagement> 
+</distributionManagement>
 
 
   
