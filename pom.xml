@@ -6,7 +6,7 @@
 
   <groupId>Training</groupId>
   <artifactId>Demo</artifactId>
-  <version>123.0-SNAPSHOT</version>
+  <version>199.0-SNAPSHOT</version>
 
 
   <properties>
@@ -27,13 +27,13 @@
   <distributionManagement>
     <repository>
         <id>central</id>
-        <name>TekTeacher-releases</name>
-        <url>http://localhost:8081/artifactory/hello-repo</url>
+        <name>VM-releases</name>
+        <url>http://localhost:8081/artifactory/s28-repo</url>
     </repository>
     <snapshotRepository>
-        <id>central</id>
-        <name>TekTeacher-snapshots</name>
-        <url>http://localhost:8081/artifactory/hello-repo</url>
+        <id>snapshots</id>
+        <name>VM-snapshots</name>
+        <url>http://localhost:8081/artifactory/s28-repo</url>
     </snapshotRepository>
 </distributionManagement>
 
