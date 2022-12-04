@@ -28,12 +28,12 @@
     <repository>
         <id>central</id>
         <name>VM-releases</name>
-        <url>http://localhost:8081/artifactory/vmtutes-repo</url>
+        <url>http://localhost:8081/artifactory/vm-repo</url>
     </repository>
     <snapshotRepository>
         <id>central</id>
         <name>VM-snapshots</name>
-        <url>http://localhost:8081/artifactory/vmtutes-repo</url>
+        <url>http://localhost:8081/artifactory/vm-repo</url>
     </snapshotRepository>
 </distributionManagement>
 
