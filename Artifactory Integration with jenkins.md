@@ -23,7 +23,7 @@ Integration Steps
 	   Password : default password is "password" only. (login with default password later you can change)
      Test the connection
 
-Create a Freestyle Project
+# Create a Freestyle Project
 
 - Create a new job  
     ->  Job Name : VmTutes-Job
