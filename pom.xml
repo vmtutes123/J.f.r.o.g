@@ -31,7 +31,7 @@
         <url>http://18.218.88.190:8081/artifactory/vmtutes-repo</url>
     </repository>
     <snapshotRepository>
-        <id>snapshots</id>
+        <id>central</id>
         <name>S34-batch-snapshots</name>
         <url>http://18.218.88.190:8081/artifactory/vmtutes-repo</url>
     </snapshotRepository>
