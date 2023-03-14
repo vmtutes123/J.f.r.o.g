@@ -27,13 +27,13 @@
   <distributionManagement>
     <repository>
         <id>central</id>
-        <name>Vinodh-Machireddy-Server-releases</name>
-        <url>http://3.231.229.160:8081/artifactory/vmtutes-repo</url>
+        <name>S34-batch-releases</name>
+        <url>http://18.218.88.190:8081/artifactory/vmtutes-repo</url>
     </repository>
     <snapshotRepository>
-        <id>central</id>
-        <name>Vinodh-Machireddy-Server-snapshots</name>
-        <url>http://3.231.229.160:8081/artifactory/vmtutes-repo</url>
+        <id>snapshots</id>
+        <name>S34-batch-snapshots</name>
+        <url>http://18.218.88.190:8081/artifactory/vmtutes-repo</url>
     </snapshotRepository>
 </distributionManagement>
 
