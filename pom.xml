@@ -6,7 +6,7 @@
 
   <groupId>Vinodh</groupId>
   <artifactId>Tutes</artifactId>
-  <version>68.0-SNAPSHOT</version>
+  <version>1.0-SNAPSHOT</version>
 
 
   <properties>
@@ -27,13 +27,13 @@
   <distributionManagement>
     <repository>
         <id>central</id>
-        <name>S34-batch-releases</name>
-        <url>http://18.218.88.190:8081/artifactory/vmtutes-repo</url>
+        <name>s36-Fast-Track-releases</name>
+        <url>http://3.22.51.138:8081/artifactory/vmtutes-repo</url>
     </repository>
     <snapshotRepository>
         <id>central</id>
-        <name>S34-batch-snapshots</name>
-        <url>http://18.218.88.190:8081/artifactory/vmtutes-repo</url>
+        <name>s36-Fast-Track-snapshots</name>
+        <url>http://3.22.51.138:8081/artifactory/vmtutes-repo</url>
     </snapshotRepository>
 </distributionManagement>
 
