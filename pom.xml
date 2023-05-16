@@ -24,14 +24,14 @@
     </dependency>
   </dependencies>
   
-  <<distributionManagement>
+  <distributionManagement>
     <repository>
         <id>central</id>
         <name>S37-Batch-releases</name>
         <url>http://18.191.212.94:8081/artifactory/vmtutes-repo</url>
     </repository>
     <snapshotRepository>
-        <id>snapshots</id>
+        <id>central</id>
         <name>S37-Batch-snapshots</name>
         <url>http://18.191.212.94:8081/artifactory/vmtutes-repo</url>
     </snapshotRepository>
