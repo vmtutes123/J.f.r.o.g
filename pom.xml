@@ -24,16 +24,16 @@
     </dependency>
   </dependencies>
   
-  <distributionManagement>
+  <<distributionManagement>
     <repository>
         <id>central</id>
-        <name>s36-Fast-Track-releases</name>
-        <url>http://3.22.51.138:8081/artifactory/vmtutes-repo</url>
+        <name>S37-Batch-releases</name>
+        <url>http://18.191.212.94:8081/artifactory/vmtutes-repo</url>
     </repository>
     <snapshotRepository>
-        <id>central</id>
-        <name>s36-Fast-Track-snapshots</name>
-        <url>http://3.22.51.138:8081/artifactory/vmtutes-repo</url>
+        <id>snapshots</id>
+        <name>S37-Batch-snapshots</name>
+        <url>http://18.191.212.94:8081/artifactory/vmtutes-repo</url>
     </snapshotRepository>
 </distributionManagement>
 
