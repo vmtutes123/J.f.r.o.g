@@ -27,13 +27,13 @@
  <distributionManagement>
     <repository>
         <id>central</id>
-        <name>S40-Batch-releases</name>
-        <url>http://18.117.70.160:8081/artifactory/vmtutes-repo</url>
+        <name>jaga-devops-releases</name>
+        <url>http://52.15.234.164:8081/artifactory/jaga-repo</url>
     </repository>
     <snapshotRepository>
         <id>central</id>
-        <name>S40-Batch-snapshots</name>
-        <url>http://18.117.70.160:8081/artifactory/vmtutes-repo</url>
+        <name>jaga-devops-snapshots</name>
+        <url>http://52.15.234.164:8081/artifactory/jaga-repo</url>
     </snapshotRepository>
 </distributionManagement>
 
